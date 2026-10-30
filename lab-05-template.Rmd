@@ -67,7 +67,7 @@ library(tidyverse)
 library(ggplot2)
 
 # Install that package first 
-# install.packages("fivethirtyeight")
+ install.packages("fivethirtyeight")
 library(fivethirtyeight)
 ```
 
@@ -83,7 +83,7 @@ glimpse(candy_df)
 How many observations and variables are in this dataset?
 Did you identify the type of variables, remember that this detail is crucial to create which kind of data visualization in general. 
 
-_Write your comments about results_
+_Observations = number of rows = 85, Variables = number of columns = 13_
 
 # Data viz - One variable at a time
 
